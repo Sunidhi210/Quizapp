@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "985947446257",
+    "project_id": "quizappsunidhi",
+    "storage_bucket": "quizappsunidhi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985947446257:android:1cdd0266cd1c0410c08250",
+        "android_client_info": {
+          "package_name": "com.sunidhi.quizapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnxPfYo4Yzhs4cFHJvSR3_peV3ujCLQwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
