@@ -1,0 +1,30 @@
+1. User Id
+  Purpose: Store user profile information.
+    Field: User Name
+
+2. Questions
+      Purpose: Store individual questions for quiz.
+        Field: Question Id
+               Text (Question itself)
+               Options (List of possible answers)
+               Correct answer
+
+3. User Response
+        Purpose: Recording user's response for the questions.
+          Field: ResponseId
+                 User Id
+                 Question Id
+                 Selected Option
+                 Is Correct
+                 Timestamp
+                 IsSubmitted
+                 IsCompleted
+
+4. Result
+        Purpose: Store quiz results for each user.
+          Field:ResultID
+                UserID
+                QuizId
+                Score
+                Timestamp
+        
