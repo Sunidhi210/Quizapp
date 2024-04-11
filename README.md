@@ -22,14 +22,7 @@ The Quiz App is an Android application designed to provide users with an interac
 - there is a 15seconds timer if the answer is not selected on time it will automatically be marked 0 and will move to next question.
 - View your score and performance summary at the end of the quiz.
 
-## Contributing
-Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/yourfeature`).
-3. Make your changes.
-4. Commit your changes (`git commit -am 'Add new feature'`).
-5. Push to the branch (`git push origin feature/yourfeature`).
-6. Create a new Pull Request.
+
 
 ## Credits
 - This project was developed by [Sunidhi Kalhan]
